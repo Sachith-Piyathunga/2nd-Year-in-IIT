@@ -19,3 +19,13 @@ Welcome to my repository of second-year Computer Science studies at the **Univer
 ---
 
 ## 📂 File Structure
+
+```
+📁 5COSC019C - Object Oriented Programming/
+📁 5COSC020C - Database Systems/
+📁 5COSC022C - Client-Server Architectures/
+📁 5COSC021C - Group Project/
+📁 5SENG003C - Algorithms/
+📁 5COSC023 - Mobile App Development/
+📁 README.md
+```
