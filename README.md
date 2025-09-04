@@ -43,4 +43,11 @@ Each folder contains:
 
 This repository is created for:
 
+- Consolidating my learning materials for organized access  
+- Tracking my academic development and improvements  
+- Sharing helpful resources with peers  
+- Archiving completed assignments and personal projects  
+
+---
+
 
