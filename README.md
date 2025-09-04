@@ -50,4 +50,7 @@ This repository is created for:
 
 ---
 
+## 🧾 Notes
+
+> All content here is derived from my own study and publicly shared materials provided by lecturers. Code and documents are for educational and collaborative purposes only.
 
