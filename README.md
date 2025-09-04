@@ -64,3 +64,7 @@ This repository is for **educational use only**. All intellectual property belon
 If you're a student, please **use these materials ethically** and follow your institution’s academic integrity policies.
 
 ---
+
+## 📬 Contact
+
+Feel free to reach out if you'd like to:
