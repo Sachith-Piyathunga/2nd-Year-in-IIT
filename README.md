@@ -1,2 +1,5 @@
-# 2nd-Year-in-IIT
-A well-organized archive of my 2nd-year Computer Science studies at IIT – including lecture notes, assessments, exam resources, and personal study materials.
+# 📚 2nd Year in IIT – BSc (Hons) Computer Science
+
+Welcome to my repository of second-year Computer Science studies at the **University of Westminster** (delivered through **IIT, Sri Lanka**). This repository serves as a structured archive of my learning journey and includes coursework, project code, revision materials, and references.
+
+---
