@@ -72,3 +72,6 @@ Feel free to reach out if you'd like to:
 - Collaborate on open-source projects  
 - Share resources  
 - Provide feedback on my work  
+
+  - 📧 Email: sachintha.piyathunga@gmail.com
+  - 🌐 LinkedIn: [Sachintha Chamod](https://www.linkedin.com/in/sachintha-piyathunga/)
