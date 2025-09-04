@@ -57,3 +57,10 @@ This repository is created for:
 This repository will be **continuously updated** as I sort through and upload more content from my second year.
 
 ---
+
+## ⚠️ Disclaimer
+
+This repository is for **educational use only**. All intellectual property belongs to the University of Westminster, IIT, or the respective lecturers.  
+If you're a student, please **use these materials ethically** and follow your institution’s academic integrity policies.
+
+---
