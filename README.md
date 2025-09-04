@@ -17,3 +17,5 @@ Welcome to my repository of second-year Computer Science studies at the **Univer
 - **5COSC023** – Mobile Application Development  
 
 ---
+
+## 📂 File Structure
