@@ -11,3 +11,9 @@ Welcome to my repository of second-year Computer Science studies at the **Univer
 - **5COSC020C** – Database Systems  
 - **5COSC022C** – Client-Server Architectures  
 - **5COSC021C** – Software Development Group Project 
+
+### ⚙️ Optional Modules
+- **5SENG003C** – Algorithms: Theory, Design and Implementation  
+- **5COSC023** – Mobile Application Development  
+
+---
