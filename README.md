@@ -29,3 +29,12 @@ Welcome to my repository of second-year Computer Science studies at the **Univer
 📁 5COSC023 - Mobile App Development/
 📁 README.md
 ```
+
+Each folder contains:
+- 📄 Lecture Slides & Notes  
+- 📝 Coursework Submissions & Reports  
+- 🧠 Revision Materials  
+- 💻 Source Code (Java, SQL, Kotlin, etc.)  
+- 🔍 Extra Study Resources
+
+---
