@@ -54,3 +54,6 @@ This repository is created for:
 
 > All content here is derived from my own study and publicly shared materials provided by lecturers. Code and documents are for educational and collaborative purposes only.
 
+This repository will be **continuously updated** as I sort through and upload more content from my second year.
+
+---
