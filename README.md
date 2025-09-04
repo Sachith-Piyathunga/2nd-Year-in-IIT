@@ -68,3 +68,7 @@ If you're a student, please **use these materials ethically** and follow your in
 ## 📬 Contact
 
 Feel free to reach out if you'd like to:
+
+- Collaborate on open-source projects  
+- Share resources  
+- Provide feedback on my work  
