@@ -38,3 +38,9 @@ Each folder contains:
 - 🔍 Extra Study Resources
 
 ---
+
+## 🎯 Purpose
+
+This repository is created for:
+
+
