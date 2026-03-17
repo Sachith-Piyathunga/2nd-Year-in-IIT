@@ -1,0 +1,37 @@
+Additional Coding Tasks You Might Encounter:
+1. Implement Inheritance:
+Create a base Vehicle class and extend it to create Car and Bike classes.
+
+2. Polymorphism:
+Design a system where Animal has a speak method, overridden in Dog and Cat.
+
+3. Use of Interfaces:
+Create a Payment interface with processPayment method and implement it in CreditCardPayment and PayPalPayment classes.
+
+4. Exception Handling:
+Design a BankAccount class that throws a custom exception when a withdrawal exceeds the account balance.
+
+
+
+Preparation Tips for the Viva:
+Review OOP Concepts:
+
+Understand principles (Encapsulation, Polymorphism, Inheritance, Abstraction).
+Be clear on Java-specific implementations of OOP (e.g., interfaces, abstract classes).
+Practice Coding:
+
+Focus on small exercises that demonstrate OOP principles.
+Be ready to write clean and readable code in a short time.
+Be Prepared to Explain Your Code:
+
+Practice explaining your thought process while coding.
+Highlight how you’ve applied OOP concepts to solve the problem.
+Brush Up on Java Basics:
+
+this and super keywords, exception handling, collections (List, Map), generics.
+Time Management:
+
+If the coding task is time-limited (8 minutes), structure your solution:
+Define the class structure first.
+Implement core methods.
+Add optional methods if time allows.
